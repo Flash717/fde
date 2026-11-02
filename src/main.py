@@ -1,4 +1,8 @@
+"""Entry point for the fde application."""
+
+
 def main():
+    """Print the application greeting."""
     print("Hello from fde!")
 
 
